@@ -1,0 +1,1 @@
+the program that simulates a lucky number game,use the random module to generate a random integer between 1 and 100, ask the user to guess the number.give hints after each guess.limit the maximum number of attempts to 7.if the user fails within 7 attempts,reveal the lucky number and end the game. 
